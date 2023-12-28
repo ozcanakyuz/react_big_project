@@ -27,8 +27,8 @@ function Navi(args) {
               <NavLink href="/components/">Components</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#">
-                GitHub
+              <NavLink href="/cart">
+                My Cart
               </NavLink>
             </NavItem>
             <CartSummary/>
