@@ -4,8 +4,9 @@
 // }
 
 const initialState = {
-  currentCategory: { categoryName: "Beverages" },
-  categories: []
+  currentCategory: {},
+  categories: [],
+  products: []
 };
 
 export default initialState;
