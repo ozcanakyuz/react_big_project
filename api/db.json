@@ -35,10 +35,10 @@
     {
       "id": 6,
       "categoryId": 2,
-      "productName": "Grandma's Boysenberry Spread",
-      "quantityPerUnit": "12 - 8 oz jars",
-      "unitPrice": 25,
-      "unitsInStock": 120
+      "productName": "OZCAN AKYUZ",
+      "quantityPerUnit": "12 - 8 ozcan kyz",
+      "unitPrice": "55",
+      "unitsInStock": "123654987"
     },
     {
       "id": 7,
