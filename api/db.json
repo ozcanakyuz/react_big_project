@@ -615,6 +615,48 @@
       "quantityPerUnit": "1",
       "unitsInStock": "2",
       "id": 78
+    },
+    {
+      "categoryId": 1,
+      "id": 79
+    },
+    {
+      "categoryId": 7,
+      "id": 80
+    },
+    {
+      "categoryId": 1,
+      "id": 81
+    },
+    {
+      "productName": "Beverages",
+      "id": 82
+    },
+    {
+      "id": 83
+    },
+    {
+      "categoryId": 2,
+      "id": 84
+    },
+    {
+      "categoryId": 6,
+      "id": 85
+    },
+    {
+      "categoryId": 3,
+      "id": 86
+    },
+    {
+      "productName": "DENEME",
+      "categoryId": 1,
+      "quantityPerUnit": "24",
+      "unitPrice": "24",
+      "unitsInStock": "24",
+      "id": 87
+    },
+    {
+      "id": 88
     }
   ],
   "categories": [

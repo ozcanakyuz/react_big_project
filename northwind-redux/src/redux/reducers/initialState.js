@@ -1,6 +1,9 @@
 // export default {
-//   currentCategory: { categoryName: "Beverages" },
-//   categories: []
+//   currentCategory:{},
+//   categories:[],
+//   products:[],
+//   cart:[],
+//   savedProduct:{}
 // }
 
 const initialState = {
